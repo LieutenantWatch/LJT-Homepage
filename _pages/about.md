@@ -39,11 +39,11 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. My research
 
 ## Publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(First author)*, arXiv, 2025
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** *(First author)*, Arxiv, 2025
   - Authors: Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
   - Code repository available on GitHub.
 
-- **On the Perception Bottleneck of VLMs for Chart Understanding** *(First author)*, arXiv, 2025
+- **On the Perception Bottleneck of VLMs for Chart Understanding** *(First author)*, Arxiv, 2025
   - Authors: Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.
   - Code repository: Vision4Chart (GitHub).
 
